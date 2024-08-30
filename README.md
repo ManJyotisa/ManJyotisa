@@ -4,7 +4,7 @@
 
 Halo! Saya ManJyotisa, seorang pengembang berusia 17 tahun yang tinggal di Mataram, Nusa Tenggara Barat. Saya memiliki minat yang mendalam dalam pemrograman, terutama di bidang JavaScript.
 
-`Tetap semangat belajar coding, setiap baris kode yang kamu tulis adalah langkah kecil menuju impian besar. Jangan takut gagal, karena setiap kesalahan adalah pelajaran yang akan membuatmu lebih kuat dan lebih ahli. Teruslah mencoba, karena kesuksesan adalah milik mereka yang tidak pernah berhenti belajar.`
+`"Tetap semangat belajar coding, setiap baris kode yang ditulis adalah langkah kecil menuju impian besar. Jangan takut gagal, karena setiap kesalahan adalah pelajaran yang akan membuatmu lebih tau. Teruslah mencoba, karena kesuksesan adalah milik mereka yang tidak pernah berhenti belajar."`
 ## Keahlian
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript)
