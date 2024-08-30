@@ -6,6 +6,12 @@ Halo! Saya ManJyotisa, seorang pengembang berusia 17 tahun yang tinggal di Matar
 
 ## Keahlian
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-10%25-blue?style=for-the-badge&logo=python)
+![Golang](https://img.shields.io/badge/Go-5%25-lightblue?style=for-the-badge&logo=go)
+![Arduino](https://img.shields.io/badge/Arduino-5%25-blue?style=for-the-badge&logo=arduino)
+![HTML](https://img.shields.io/badge/HTML-20%25-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-10%25-blue?style=for-the-badge&logo=css3)
+![C++](https://img.shields.io/badge/C++-5%25-blue?style=for-the-badge&logo=c%2B%2B)
 
 Saya selalu bersemangat untuk belajar teknologi baru dan meningkatkan kemampuan saya dalam pengembangan web. Terima kasih telah mengunjungi profil saya!
