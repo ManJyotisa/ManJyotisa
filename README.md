@@ -5,7 +5,7 @@
 Halo! Saya ManJyotisa, seorang pengembang berusia 17 tahun yang tinggal di Mataram, Nusa Tenggara Barat. Saya memiliki minat yang mendalam dalam pemrograman, terutama di bidang JavaScript.
 
 ## Quotes
-"semangat terus belajar coding! Setiap baris kode yang lo ketik itu ngebawa lo lebih deket ke tujuan. Jangan takut salah, dari situ justru lo makin jago. Gas terus, karena yang gak pernah nyerah, dia yang bakal jadi pemenang!"
+`"semangat terus belajar coding! Setiap baris kode yang lo ketik itu ngebawa lo lebih deket ke tujuan. Jangan takut salah, dari situ justru lo makin jago. Gas terus, karena yang gak pernah nyerah, dia yang bakal jadi pemenang!"`
 
 ## Keahlian
 
